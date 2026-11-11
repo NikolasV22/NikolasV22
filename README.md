@@ -1,6 +1,6 @@
 # Nikolas-Vasconcellos-Ferreira
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Nikolas Vasconcellos Ferreira, tenho 17 anos e sou natural de Belo Horizonte. Ensino médio em andamento. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo SENAI-CTTI. Melhorando e expressando a arte pela programação e tecnologia.
 
