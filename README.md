@@ -4,18 +4,6 @@
 
 Me chamo Nikolas Vasconcellos Ferreira, tenho 17 anos e sou natural de Belo Horizonte. Ensino médio em andamento. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo SENAI-CTTI. Melhorando e expressando a arte pela programação e tecnologia.
 
-    </a> 
-    <a href="https://github.com/NikolasV22?tab=stars">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-  
-</p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
